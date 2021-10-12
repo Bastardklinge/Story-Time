@@ -50,4 +50,8 @@ geladen und über einen Zufallsgenerator in die Storys eingefügt.
 Je häufiger das Spiel von menschlichen Spielern gespielt wird, desto größer
 wird der "Wortschatz" der Bots und umso abwechslungsreicher das Spiel mit 
 diesen.
-
+_Die .txt Dateien werden von dem Programm erstellt, sollten sie noch nicht
+vorhanden sein, und sind somit nicht zwingend für das Ausführen des Spieles 
+notwendig. Allerdings benötigen die Bots Werte, die sie eingeben können, wo-
+durch es durch Löschen der .txt Dateien zu Fehlern kommen kann, wenn mit
+Bots gespielt wird.
