@@ -36,7 +36,7 @@ def Einstellungen():
     print("Du spielst mit: \n")
 
     for i in bots:
-        print(i[0]) 
+        print(i[0])
     
         if Spielerliste == []:
             Spielerliste.append(i)
@@ -48,8 +48,6 @@ def Einstellungen():
     
 def Spiel():    
 
-    print(Spielerliste)
-    print("\n")
     time.sleep(1)
 
     for x in Spielerliste:

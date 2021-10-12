@@ -50,6 +50,7 @@ class Spieler:
         Kommentar.remove("")
     
     def __init__(self, Name, Status):
+
         self.__name = Name
         self.__status = Status
         self.__liste = []
@@ -59,10 +60,9 @@ class Spieler:
         self.Tat = []
         self.Zeuge = []
         self.Kommentar = []
-        #self.__Datei = open(self.__name'.txt', 'w')
+
     
     def Eingabe (self, Teil):
-    
                
         if Teil == "Zeit":
                 
@@ -166,7 +166,6 @@ class Spieler:
         
             
     def Ausgabe (self):
-        
         
         Spieler.liste = []
        
