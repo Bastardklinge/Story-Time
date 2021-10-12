@@ -3,6 +3,15 @@ Ein kleines, jedoch witziges Partyspiel, in Python programmiert.
 Autor: Robin Gilbert
 _______________________________________________________________________
 
+0. Notwendige Module:
+
+import sys
+import random
+import time
+import names
+import os
+
+
 1. Grundidee: 
 Das Spiel basiert auf einem Partyspiel, bei dem nach einer festen Reihenfolge
 verschiedene Abschnitte einer Geschichte auf ein Blatt Papier geschrieben,
